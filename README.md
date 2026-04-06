@@ -1,7 +1,5 @@
 Hi, I'm Mohannad
 
-✨ "Code. Learn. Share. Repeat." ✨
-
 ---
 
 <div align="center">
